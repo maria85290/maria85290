@@ -1,8 +1,7 @@
 ### Hi! My name is Maria!👋
 
-<div>
-  [Curriculum vitae](https://github.com/maria85290/maria85290/curriculoMaria.pdf)
-</div>
+
+[Curriculum vitae](https://github.com/maria85290/maria85290/curriculoMaria.pdf)
   
 <div>
   <a href="https://github.com/maria85290">
