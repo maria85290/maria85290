@@ -1,6 +1,6 @@
 ### Hi! My name is Maria!👋 
 
-[About me](https://github.com/maria85290/maria85290/blob/main/curriculoMaria.pdf)
+[About me](https://github.com/maria85290/maria85290/blob/main/curriculum.pdf)
   
 <div>
   <a href="https://github.com/maria85290">
